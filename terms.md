@@ -16,7 +16,7 @@
 
 7.  The **Fee Estimate** refers to _Developer_'s estimate of the total fees for resolving the _Issue_ in the _Offer_.
 
-8.  The **Estimated Time** refers to _Developer_'s estimate of the number of days _Developer_ will need to resolve the _Issue_ in the _Offer_.
+8.  The **Time Estimate** refers to _Developer_'s estimate of the number of days _Developer_ will need to resolve the _Issue_ in the _Offer_.
 
 9.  The **Hourly Rate** is the hourly rate of pay _Developer_ specifies in the _Offer_.
 
@@ -64,7 +64,7 @@ _Developer_ agrees to track all the time they spend working on the _Issue_ in fa
 
 2.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 100% of their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
-3.  If the _Issue_ has not yet been resolved, _Developer_ agrees to send _Sponsor_ once their _Estimated Time_ elapses, along with a new _Estimated Time_, and to _Pause Work_.
+3.  If the _Issue_ has not yet been resolved, _Developer_ agrees to send _Sponsor_ once their _Time Estimate_ elapses, along with a new _Time Estimate_, and to _Pause Work_.
 
 4.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 125%, 150%, or another increment of 25% above their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
