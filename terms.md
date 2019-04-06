@@ -2,7 +2,7 @@
 
 ## <a id="Offer"></a>Offer
 
-1.  These terms, together with the **Offer** referencing them, make up an offer for a single sponsored software development contract.
+1.  These terms, together with the **Offer** referencing them, make up an offer for a single sponsored software development contract. For example, "I offer to take this issue at $60 an hour, for $250 down, under the terms of indieopensource.com's current issue sponsorship terms. I estimate that this will take me 5 hours, and that I'll be done by the first of October." is an _Offer_.
 
 2.  **Developer** is the software developer making the _Offer_.
 
