@@ -1,0 +1,131 @@
+    \Offer\
+
+        \\  These terms, together with the ""Offer"" referencing them, make up an offer for a single sponsored software development contract.
+
+        \\  ""Developer"" is the software developer making the <Offer>.
+
+        \\  ""Sponsor"" is the first individual or company to accept the <Offer>.
+
+        \\  The ""Issue"" is the issue, pull request, patch, or similar development proposal for which the <Offer> is made.
+
+        \\  The ""Project"" is the software project the <Issue> pertains to.
+
+        \\  The ""Down Payment"" is the amount <Developer> specifies for up-front payment in the <Offer>.
+
+        \\  The ""Estimated Fee"" refers to <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
+
+        \\  The ""Estimated Resolution Date"" refers to <Developer>'s estimate of the date by which <Developer> will resolve the <Issue> in the <Offer>.
+
+        \\  The ""Hourly Rate"" is the hourly rate of pay <Developer> specifies in the <Offer>.
+
+    \Protocol\
+
+        \Acceptance\  Anyone capable of entering into this agreement and meeting all the obligations of <Sponsor> under it can accept the <Offer>, thereby becoming <Sponsor>, by sending <Developer> an e-mail identifying themself and confirming acceptance.  Once a <Sponsor> accepts the <Offer>, no one else can accept the <Offer>, though <Developer> is free to make a new offer under these terms.
+
+        \Payment Instructions\  On acceptance, <Developer> agrees to bill <Sponsor> for the <Down Payment>, and to e-mail <Sponsor> instructions for making payments via bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, or via other common electronic payment system, such as PayPal, Stripe, or Square Cash.
+
+        \Down Payment\  <Sponsor> agrees to pay <Developer> the <Down Payment> within five calendar days of receiving payment instructions, according to those instructions.  If <Sponsor> fails to make the <Down Payment> by that time, this agreement ends automatically, and <Developer> is free to disclose that <Sponsor> failed to make payment, and that the agreement ended for that reason.
+
+        \Confirmation\
+
+            \\  On receiving the <Down Payment>, <Developer> agrees to disclose that the <Offer> has been accepted, in the same way they made the <Offer>, within five calendar days.  If <Developer> fails to disclose acceptance within that time, <Sponsor> may do so.
+
+            \\  <Developer> agrees not to identify the <Sponsor>, by name or otherwise, without <Sponsor>'s prior permission by e-mail.  If <Developer> breaks this promise, <Sponsor> may disclose that <Developer> did so.
+
+        \Development\
+
+            \Resolve the Issue\  On receiving the <Down Payment>, <Developer> agrees to begin work on resolving the <Issue>.
+
+            \Clarifications\  If <Sponsor> submitted or otherwise helped specify the <Issue>, <Sponsor> agrees to reply to any requests for further clarification promptly.  If <Developer>'s work on the <Issue> is held up because <Sponsor> takes more than five calendar days to respond to a request for clarification, <Developer> may end this agreement by e-mail to <Sponsor>.
+
+            \Time Tracking\  <Developer> agrees to track all the time they spend working on the <Issue> in fairly rounded, quarter-hour increments.
+
+            \Reporting\
+
+                \\  <Developer> agrees to send <Sponsor> a message once <Developer> has recorded time working on the <Issue> that adds up to 75% of their <Estimated Fee> at the agreed <Hourly Rate>.
+
+                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 100% of their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
+
+                \\  If the <Issue> has not yet been resolved, <Developer> agrees to send <Sponsor> a message on their <Estimated Resolution Date>, along with a new <Estimated Resolution Date>, and to <Pause Work>.
+
+                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 125%, 150%, or another increment of 25% above their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
+
+                \\  ""Pause Work"" means that <Developer> will stop working on the <Issue> until <Sponsor> gives written permission to continue or ends this agreement.  If <Sponsor> fails to give permission or end the agreement within five calendar days of the pause, <Sponsor> automatically ends this agreement automatically.
+
+            \Ending Work\  <Developer> may e-mail <Sponsor>, ending this agreement, in any of these situations:
+
+                \\  <Developer> has finished work resolving the problem or improvement posed by the <Issue>.
+
+                \\  It becomes clear that the <Issue> cannot or should not be resolved, for reasons outside <Developer>'s control.
+
+                \\  Maintainers of the <Project> explicitly reject the <Issue>.
+
+        \Billing\  When this agreement ends, if <Developer> ended this agreement {Ending Work} or <Sponsor> ended this agreement under {Reporting}, <Developer> agrees to bill <Sponsor> for all time spent working on the <Issue> up to that time, in fairly rounded, quarter-hour increments, at the agreed <Hourly Rate>.  <Developer> will apply the <Down Payment> against the amount due for time spent.
+
+        \Final Payment\  <Sponsor> agrees to either pay <Developer>'s bill, or dispute a specific amount of billed time and pay the rest, within five calendar days of receiving the bill.  <Sponsor> agrees to pay charges on <Developer>'s bill the same way <Sponsor> paid the <Down Payment>.  If <Sponsor> disputes charges, <Sponsor> and <Developer> agree to schedule a voice call within five calendar days to resolve the dispute, and <Sponsor> agrees to pay any resolved charges within three calendar days of resolution.
+
+        \Announcement\  On receiving payment of all undisputed and resolved time charges, <Developer> agrees to disclose this agreement ended successfully , in the same way they made the <Offer>, within five calendar days.  If <Sponsor> requests that <Developer> do so by e-mail, <Developer> agrees to disclose <Sponsor>'s identity.  If <Developer> to disclose <Sponsor>'s identity within that time, <Sponsor> may do so.
+
+    \Transfer Fees\  <Developer> and <Sponsor> agree to pay their own expenses of sending and receiving payments under this agreement.
+
+    \Secrecy\  <Developer> and <Sponsor> agree to the terms of the latest version of The Canting Tribe NDA published on nda.cantingtribe.com, with the purpose of completing work under this agreement, under the state law that governs this agreement under {Governing Law}.  Where this agreement specifically says that <Developer> or <Sponsor> may disclose information about this agreement, they may do so without breaching those nondisclosure terms.
+
+    \Intellectual Property\
+
+        \No Assignment\  This agreement does not assign any intellectual property right, and no work under this agreement is "work made for hire" under copyright or other intellectual property law.
+
+        \Public License\  <Developer> licenses intellectual property rights in all the work they create and use for the <Issue> to <Sponsor> and the public at large.  The license terms for each distinct item of work are as follows:
+
+            \\  If the terms of a public copyleft license require that the work be licensed under particular terms, the terms are the most permissive possible to meet that requirement.
+
+            \\  Otherwise, if the <Project> is made available under a public license or licenses that are standardized by Software Package Data eXchange, the terms are the most permissive of those standardized terms.
+
+            \\  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
+
+        \Enforcement of Public License\  Others who are not parties to this agreement may enforce the terms of {Public License}.
+
+        \Warranty\  <Developer> guarantees that they will have all the rights needed to license work they and create and use to resolve the <Issue> under {Public License}.  <Sponsor> agrees that <Developer> may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.  If <Developer> breaches this guarantee, <Sponsor> may disclose that <Developer> did so.
+
+    \Excuses\  Neither side will be liable for any failure or delay in meeting any obligation under this agreement caused by:
+
+        \\  failure of the other side or its personnel to meet their obligations under this agreement
+
+        \\  actions done or delayed on written request of the other side
+
+        \\  fire, flood, earthquake, and other natural disasters
+
+        \\  declared and undeclared wars, acts of terrorism, sabotage, riots, civil disorders, rebellions, and revolutions
+
+        \\  extraordinary malfunction of Internet infrastructure, data centers, or communications utilities
+
+        \\  government actions taken in response to any of these causes
+
+    \Limited Damages!!
+
+        \Damages Limit!!  Subject to {Damages Limit Exceptions}, neither side's total liability for breach of this agreement will exceed the amount <Sponsor> paid <Developer> under this agreement.  This limit applies even if the side liable is advised that the other may suffer damages, and even if <Sponsor> paid nothing at all.
+
+        \Damages Limit Exceptions\  {Limited Damages} does not limit damages for breach of <Sponsor>'s obligations to pay <Developer>.
+
+    \General Contract Terms\
+
+        \Governing Law\  The law of the state where <Developer> lives will govern this agreement
+
+        \Whole Agreement\  Both sides intend the <Offer> and these terms as the final, complete, and only expression of their terms about sponsored work on the <Issue>.
+
+        \Enforcement\  Except under {Enforcement of Public License}, Only <Developer> and <Sponsor> may enforce this agreement.
+
+        \Assignment\  Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management.  Otherwise, each side needs prior written permission by e-mail to assign any right under this agreement.  Attempts to assign against the terms of this agreement will have no legal effect.
+
+        \Lawsuits\
+
+            \Lawsuit\  ""Lawsuit"" means a lawsuit brought by one side against the other, related to this agreement or work on the <Issue>.
+
+            \Courts\  ""Developer's Local Courts"" means the courts of the country and any national subdivision with jurisdiction where <Developer> lives.
+
+            \Forum\  Both sides agree to bring any <Lawsuit> in <Developer's Local Courts>.
+
+            \Exclusive Jurisdiction\  Both sides consent to the exclusive jurisdiction of <Developer's Local Courts>.  Both sides may enforce judgments from <Developer's Local Courts> in other jurisdictions.
+
+            \Inconvenient Forum Waiver\  Both sides waive any objection to venue for any <Lawsuit> in <Developer's Local Courts> and any claim that the other brought any <Lawsuit> in <Developer's Local Courts> in an inconvenient forum.
+
+            \Loser Pays\  Each side agrees to pay the other side's costs of bringing any successful <Lawsuit> or collecting payment owed under this agreement.
