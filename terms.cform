@@ -14,7 +14,7 @@
 
         \\  The ""Estimated Fee"" refers to <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
 
-        \\  The ""Estimated Resolution Date"" refers to <Developer>'s estimate of the date by which <Developer> will resolve the <Issue> in the <Offer>.
+        \\  The ""Estimated Time"" refers to <Developer>'s estimate of the number of days <Developer> will need to resolve the <Issue> in the <Offer>.
 
         \\  The ""Hourly Rate"" is the hourly rate of pay <Developer> specifies in the <Offer>.
 
@@ -46,7 +46,7 @@
 
                 \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 100% of their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
 
-                \\  If the <Issue> has not yet been resolved, <Developer> agrees to send <Sponsor> a message on their <Estimated Resolution Date>, along with a new <Estimated Resolution Date>, and to <Pause Work>.
+                \\  If the <Issue> has not yet been resolved, <Developer> agrees to send <Sponsor> once their <Estimated Time> elapses, along with a new <Estimated Time>, and to <Pause Work>.
 
                 \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 125%, 150%, or another increment of 25% above their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
 
