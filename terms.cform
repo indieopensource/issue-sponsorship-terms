@@ -4,11 +4,11 @@
 
         \\  These terms, together with the ""Offer"" referencing them, make up an offer for a single sponsored software development contract.  For example, "I offer to take this issue at $60 an hour, for $250 down, under the terms of indieopensource.com's current issue sponsorship terms.  I estimate that this will take me 5 hours, and that it will take me 14 calendar days." is an <Offer>.
 
-        \\  ""Developer"" is the software developer making the <Offer>.
+        \\  ""Developer"" is the software developer who made the <Offer>.
 
         \\  ""Sponsor"" is the first individual or company to accept the <Offer>.
 
-        \\  The ""Issue"" is the issue, pull request, patch, or similar development proposal for which the <Offer> is made.
+        \\  The ""Issue"" is the issue, pull request, patch, or similar development proposal for which the <Offer> was made.
 
         \\  The ""Project"" is the software project the <Issue> pertains to.
 
