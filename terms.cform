@@ -12,7 +12,7 @@
 
         \\  The ""Down Payment"" is the amount <Developer> specifies for up-front payment in the <Offer>.
 
-        \\  The ""Estimated Fee"" refers to <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
+        \\  The ""Fee Estimate"" refers to <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
 
         \\  The ""Estimated Time"" refers to <Developer>'s estimate of the number of days <Developer> will need to resolve the <Issue> in the <Offer>.
 
@@ -44,13 +44,13 @@
 
             \Reporting\
 
-                \\  <Developer> agrees to send <Sponsor> a message once <Developer> has recorded time working on the <Issue> that adds up to 75% of their <Estimated Fee> at the agreed <Hourly Rate>.
+                \\  <Developer> agrees to send <Sponsor> a message once <Developer> has recorded time working on the <Issue> that adds up to 75% of their <Fee Estimate> at the agreed <Hourly Rate>.
 
-                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 100% of their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
+                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 100% of their <Fee Estimate> at the agreed <Hourly Rate>, and to <Pause Work>.
 
                 \\  If the <Issue> has not yet been resolved, <Developer> agrees to send <Sponsor> once their <Estimated Time> elapses, along with a new <Estimated Time>, and to <Pause Work>.
 
-                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 125%, 150%, or another increment of 25% above their <Estimated Fee> at the agreed <Hourly Rate>, and to <Pause Work>.
+                \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 125%, 150%, or another increment of 25% above their <Fee Estimate> at the agreed <Hourly Rate>, and to <Pause Work>.
 
                 \\  ""Pause Work"" means that <Developer> will stop working on the <Issue> until <Sponsor> gives written permission to continue or ends this agreement.  If <Sponsor> fails to give permission or end the agreement within five calendar days of the pause, <Sponsor> automatically ends this agreement automatically.
 

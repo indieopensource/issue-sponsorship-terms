@@ -14,7 +14,7 @@
 
 6.  The **Down Payment** is the amount _Developer_ specifies for up-front payment in the _Offer_.
 
-7.  The **Estimated Fee** refers to _Developer_'s estimate of the total fees for resolving the _Issue_ in the _Offer_.
+7.  The **Fee Estimate** refers to _Developer_'s estimate of the total fees for resolving the _Issue_ in the _Offer_.
 
 8.  The **Estimated Time** refers to _Developer_'s estimate of the number of days _Developer_ will need to resolve the _Issue_ in the _Offer_.
 
@@ -60,13 +60,13 @@ _Developer_ agrees to track all the time they spend working on the _Issue_ in fa
 
 #### <a id="Reporting"></a>Reporting
 
-1.  _Developer_ agrees to send _Sponsor_ a message once _Developer_ has recorded time working on the _Issue_ that adds up to 75% of their _Estimated Fee_ at the agreed _Hourly Rate_.
+1.  _Developer_ agrees to send _Sponsor_ a message once _Developer_ has recorded time working on the _Issue_ that adds up to 75% of their _Fee Estimate_ at the agreed _Hourly Rate_.
 
-2.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 100% of their _Estimated Fee_ at the agreed _Hourly Rate_, and to _Pause Work_.
+2.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 100% of their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
 3.  If the _Issue_ has not yet been resolved, _Developer_ agrees to send _Sponsor_ once their _Estimated Time_ elapses, along with a new _Estimated Time_, and to _Pause Work_.
 
-4.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 125%, 150%, or another increment of 25% above their _Estimated Fee_ at the agreed _Hourly Rate_, and to _Pause Work_.
+4.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 125%, 150%, or another increment of 25% above their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
 5.  **Pause Work** means that _Developer_ will stop working on the _Issue_ until _Sponsor_ gives written permission to continue or ends this agreement. If _Sponsor_ fails to give permission or end the agreement within five calendar days of the pause, _Sponsor_ automatically ends this agreement automatically.
 
