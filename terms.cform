@@ -20,6 +20,8 @@
 
     \Protocol\
 
+        \Revocation\  <Developer> may revoke the <Offer> at any time before it is accepted.
+
         \Acceptance\  Anyone capable of entering into this agreement and meeting all the obligations of <Sponsor> under it can accept the <Offer>, thereby becoming <Sponsor>, by sending <Developer> an e-mail identifying themself and confirming acceptance.  Once a <Sponsor> accepts the <Offer>, no one else can accept the <Offer>, though <Developer> is free to make a new offer under these terms.
 
         \Payment Instructions\  On acceptance, <Developer> agrees to bill <Sponsor> for the <Down Payment>, and to e-mail <Sponsor> instructions for making payments via bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, or via other common electronic payment system, such as PayPal, Stripe, or Square Cash.
