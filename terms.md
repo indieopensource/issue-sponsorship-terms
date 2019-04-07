@@ -112,11 +112,11 @@ This agreement does not assign any intellectual property right, and no work unde
 
 ### <a id="Public_Licenses"></a>Public Licenses
 
-_Developer_ licenses intellectual property rights in all the work they create and use for the _Issue_ to _Sponsor_ and the public at large. The license terms for each distinct item of work are as follows:
+_Developer_ licenses intellectual property rights in each work they create and use for the _Issue_ to the public at large, including _Sponsor_. The license terms for each separately licensable work are as follows:
 
-1.  If the terms of a public copyleft license require that the work be licensed under particular terms, the terms are the most permissive possible to meet that requirement.
+1.  If the terms of a public license, such as a copyleft license, require the work be licensed under particular terms, the terms for that work are the most permissive terms possible that meet that requirement.
 
-2.  Otherwise, if the _Project_ is made available under a public license or licenses that are standardized by Software Package Data eXchange, the terms are the most permissive of those standardized terms.
+2.  Otherwise, if the _Project_ is made available under one or more public licenses standardized by Software Package Data eXchange, the terms are the most permissive of those terms.
 
 3.  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
