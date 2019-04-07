@@ -6,7 +6,7 @@ These terms set out a step-by-step process and ground rules for paid software de
 
 ## <a id="Offer"></a>Offer
 
-1.  These terms, together with the **Offer** referencing them, make up an offer for a single sponsored software development contract. For example, "I offer to take this issue at $60 an hour, for $250 down, under the terms of indieopensource.com's current issue sponsorship terms. I estimate that this will take me 5 hours, and that it will take me 14 calendar days." is an _Offer_.
+1.  These terms, together with the **Offer** referencing them, make up an offer for a single sponsored software development contract. For example, "I offer to take this issue at $60 an hour, for $250 down, under the terms of indieopensource.com's current issue sponsorship terms. I estimate that this will take me 5 hours and 14 calendar days." is an _Offer_.
 
 2.  **Developer** is the software developer who made the _Offer_.
 
