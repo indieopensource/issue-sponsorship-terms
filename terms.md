@@ -2,7 +2,7 @@
 
 ## <a id="Purpose"></a>Purpose
 
-These terms set out a step-by-step process and ground rules for paid software development to resolve a single development proposal. These terms cover payment, reporting, and public accountability mechanisms designed to grow developer and sponsor reputations for fair dealing.
+These terms set out a step-by-step process and ground rules for paid resolution of a single issue, pull request, or similar proposal for development of open software. These terms cover offer, acceptance, payment, reporting, intellectual property, and public accountability for fair dealing.
 
 ## <a id="Offer"></a>Offer
 
