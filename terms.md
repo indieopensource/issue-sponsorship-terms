@@ -40,7 +40,7 @@ On acceptance, _Developer_ agrees to bill _Sponsor_ for the _Down Payment_, and 
 
 ### <a id="Down_Payment"></a>Down Payment
 
-_Sponsor_ agrees to pay _Developer_ the _Down Payment_ within five calendar days of receiving payment instructions, according to those instructions. If _Sponsor_ fails to make the _Down Payment_ by that time, this agreement ends automatically, and _Developer_ is free to disclose that _Sponsor_ failed to make payment, and that the agreement ended for that reason.
+_Sponsor_ agrees to pay _Developer_ the _Down Payment_ within five calendar days of receiving payment instructions, according to those instructions. If _Sponsor_ fails to make the _Down Payment_ by that time, this agreement ends automatically, and _Developer_ is free to disclose that _Sponsor_ failed to make the _Down Payment_.
 
 ### <a id="Confirmation"></a>Confirmation
 

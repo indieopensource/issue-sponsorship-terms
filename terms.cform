@@ -28,7 +28,7 @@
 
         \Payment Instructions\  On acceptance, <Developer> agrees to bill <Sponsor> for the <Down Payment>, and to e-mail <Sponsor> instructions for making payments via bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, or via other common electronic payment system, such as PayPal, Stripe, or Square Cash.
 
-        \Down Payment\  <Sponsor> agrees to pay <Developer> the <Down Payment> within [down payment deadline] of receiving payment instructions, according to those instructions.  If <Sponsor> fails to make the <Down Payment> by that time, this agreement ends automatically, and <Developer> is free to disclose that <Sponsor> failed to make payment, and that the agreement ended for that reason.
+        \Down Payment\  <Sponsor> agrees to pay <Developer> the <Down Payment> within [down payment deadline] of receiving payment instructions, according to those instructions.  If <Sponsor> fails to make the <Down Payment> by that time, this agreement ends automatically, and <Developer> is free to disclose that <Sponsor> failed to make the <Down Payment>.
 
         \Confirmation\
 
