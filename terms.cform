@@ -78,7 +78,7 @@
 
         \No Assignment\  This agreement does not assign any intellectual property right, and no work under this agreement is "work made for hire" under copyright or other intellectual property law.
 
-        \Public License\  <Developer> licenses intellectual property rights in all the work they create and use for the <Issue> to <Sponsor> and the public at large.  The license terms for each distinct item of work are as follows:
+        \Public Licenses\  <Developer> licenses intellectual property rights in all the work they create and use for the <Issue> to <Sponsor> and the public at large.  The license terms for each distinct item of work are as follows:
 
             \\  If the terms of a public copyleft license require that the work be licensed under particular terms, the terms are the most permissive possible to meet that requirement.
 
@@ -86,11 +86,11 @@
 
             \\  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
-        \Separate Licenses\  Terms under which <Developer> grants licenses under {Public License} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Sponsor>'s contractor-client relationship.
+        \Separate Licenses\  Terms under which <Developer> grants licenses under {Public Licenses} will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of <Developer> and <Sponsor>'s contractor-client relationship.
 
-        \Enforcement of Public License\  Others who are not parties to this agreement may enforce the terms of {Public License}.
+        \Enforcement of Public Licenses\  Others who are not parties to this agreement may enforce the terms of {Public Licenses}.
 
-        \Warranty\  <Developer> guarantees that they will have all the rights needed to license work they and create and use to resolve the <Issue> under {Public License}.  <Sponsor> agrees that <Developer> may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.  If <Developer> breaches this guarantee, <Sponsor> may disclose that <Developer> did so.
+        \Warranty\  <Developer> guarantees that they will have all the rights needed to license work they and create and use to resolve the <Issue> under {Public Licenses}.  <Sponsor> agrees that <Developer> may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others.  If <Developer> breaches this guarantee, <Sponsor> may disclose that <Developer> did so.
 
     \Excuses\  Neither side will be liable for any failure or delay in meeting any obligation under this agreement caused by:
 
@@ -122,7 +122,7 @@
 
         \Whole Agreement\  Both sides intend the <Offer> and these terms as the final, complete, and only expression of their terms about sponsored work on the <Issue>.
 
-        \Enforcement\  Except under {Enforcement of Public License}, Only <Developer> and <Sponsor> may enforce this agreement.
+        \Enforcement\  Except under {Enforcement of Public Licenses}, Only <Developer> and <Sponsor> may enforce this agreement.
 
         \Assignment\  Each side may assign all its rights, licenses, and obligations under this agreement, as a whole, to a new legal entity created to change its jurisdiction or legal form of organization, or to an entity that acquires substantially all of its assets or enough securities to control its management.  Otherwise, each side needs prior written permission by e-mail to assign any right under this agreement.  Attempts to assign against the terms of this agreement will have no legal effect.
 

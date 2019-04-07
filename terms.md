@@ -110,7 +110,7 @@ _Developer_ and _Sponsor_ agree to the terms of the latest version of The Cantin
 
 This agreement does not assign any intellectual property right, and no work under this agreement is "work made for hire" under copyright or other intellectual property law.
 
-### <a id="Public_License"></a>Public License
+### <a id="Public_Licenses"></a>Public Licenses
 
 _Developer_ licenses intellectual property rights in all the work they create and use for the _Issue_ to _Sponsor_ and the public at large. The license terms for each distinct item of work are as follows:
 
@@ -122,15 +122,15 @@ _Developer_ licenses intellectual property rights in all the work they create an
 
 ### <a id="Separate_Licenses"></a>Separate Licenses
 
-Terms under which _Developer_ grants licenses under [Public License](#Public_License) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Sponsor_'s contractor-client relationship.
+Terms under which _Developer_ grants licenses under [Public Licenses](#Public_Licenses) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Sponsor_'s contractor-client relationship.
 
-### <a id="Enforcement_of_Public_License"></a>Enforcement of Public License
+### <a id="Enforcement_of_Public_Licenses"></a>Enforcement of Public Licenses
 
-Others who are not parties to this agreement may enforce the terms of [Public License](#Public_License).
+Others who are not parties to this agreement may enforce the terms of [Public Licenses](#Public_Licenses).
 
 ### <a id="Warranty"></a>Warranty
 
-_Developer_ guarantees that they will have all the rights needed to license work they and create and use to resolve the _Issue_ under [Public License](#Public_License). _Sponsor_ agrees that _Developer_ may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others. If _Developer_ breaches this guarantee, _Sponsor_ may disclose that _Developer_ did so.
+_Developer_ guarantees that they will have all the rights needed to license work they and create and use to resolve the _Issue_ under [Public Licenses](#Public_Licenses). _Sponsor_ agrees that _Developer_ may rely on written statements by authors of software, copies of and references to specific public licenses in "README", "LICENSE", source code, and similar files, and licensing metadata in "package.json" and similar, standardized metadata files, to determine their rights for the work of others. If _Developer_ breaches this guarantee, _Sponsor_ may disclose that _Developer_ did so.
 
 ## <a id="Excuses"></a>Excuses
 
@@ -178,7 +178,7 @@ Both sides intend the _Offer_ and these terms as the final, complete, and only e
 
 ### <a id="Enforcement"></a>Enforcement
 
-Except under [Enforcement of Public License](#Enforcement_of_Public_License), Only _Developer_ and _Sponsor_ may enforce this agreement.
+Except under [Enforcement of Public Licenses](#Enforcement_of_Public_Licenses), Only _Developer_ and _Sponsor_ may enforce this agreement.
 
 ### <a id="Assignment"></a>Assignment
 
