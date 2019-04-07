@@ -86,7 +86,7 @@ _Developer_ may e-mail _Sponsor_, ending this agreement, in any of these situati
 
 ### <a id="Billing"></a>Billing
 
-When this agreement ends, if _Developer_ ended this agreement under [Ending Work](#Ending_Work) or _Sponsor_ ended this agreement under [Reporting](#Reporting), _Developer_ agrees to bill _Sponsor_ for all time spent working on the _Issue_ up to that time, in fairly rounded, quarter-hour increments, at the agreed _Hourly Rate_. _Developer_ will apply the _Down Payment_ against the amount due for time spent.
+When this agreement ends, if _Developer_ ended this agreement under [Ending Work](#Ending_Work) or _Sponsor_ ended this agreement under [Reporting](#Reporting), then _Developer_ agrees to bill _Sponsor_ for all time spent working on the _Issue_ up to that time, in fairly rounded, quarter-hour increments, at the agreed _Hourly Rate_. _Developer_ will apply the _Down Payment_ against the amount due for time spent.
 
 ### <a id="Final_Payment"></a>Final Payment
 
