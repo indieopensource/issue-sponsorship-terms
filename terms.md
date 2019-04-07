@@ -32,7 +32,7 @@ _Developer_ may revoke the _Offer_ at any time before it is accepted.
 
 ### <a id="Acceptance"></a>Acceptance
 
-Anyone capable of entering into this agreement and meeting all the obligations of _Sponsor_ under it can accept the _Offer_, thereby becoming _Sponsor_, by sending _Developer_ an e-mail identifying themself and confirming acceptance. Once a _Sponsor_ accepts the _Offer_, no one else can accept the _Offer_, though _Developer_ is free to make a new offer under these terms.
+Anyone capable of entering into this agreement and meeting all the obligations of _Sponsor_ under it can accept the _Offer_, thereby becoming _Sponsor_, by sending _Developer_ an e-mail identifying themself and confirming acceptance. Once a _Sponsor_ accepts the _Offer_, no one else can accept the _Offer_, though _Developer_ is free to make new offers under these terms.
 
 ### <a id="Payment_Instructions"></a>Payment Instructions
 
