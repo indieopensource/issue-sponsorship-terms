@@ -82,7 +82,9 @@ _Developer_ may e-mail _Sponsor_, ending this agreement, in any of these situati
 
 2.  It becomes clear that the _Issue_ cannot or should not be resolved, for reasons outside _Developer_'s control.
 
-3.  Maintainers of the _Project_ explicitly reject the _Issue_.
+3.  Someone else resolves the issue.
+
+4.  Maintainers of the _Project_ explicitly reject the _Issue_.
 
 ### <a id="Billing"></a>Billing
 

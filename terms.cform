@@ -62,6 +62,8 @@
 
                 \\  It becomes clear that the <Issue> cannot or should not be resolved, for reasons outside <Developer>'s control.
 
+                \\  Someone else resolves the issue.
+
                 \\  Maintainers of the <Project> explicitly reject the <Issue>.
 
         \Billing\  When this agreement ends, if <Developer> ended this agreement {Ending Work} or <Sponsor> ended this agreement under {Reporting}, <Developer> agrees to bill <Sponsor> for all time spent working on the <Issue> up to that time, in fairly rounded, quarter-hour increments, at the agreed <Hourly Rate>.  <Developer> will apply the <Down Payment> against the amount due for time spent.
