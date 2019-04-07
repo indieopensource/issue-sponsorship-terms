@@ -174,7 +174,7 @@ The law of the state where _Developer_ lives will govern this agreement
 
 ### <a id="Whole_Agreement"></a>Whole Agreement
 
-Both sides intend the _Offer_ and these terms as the final, complete, and only expression of their terms about sponsored work on the _Issue_.
+Both sides intend the _Offer_ and these terms as the final, complete, and only expression of their terms about work on the _Issue_.
 
 ### <a id="Enforcement"></a>Enforcement
 
