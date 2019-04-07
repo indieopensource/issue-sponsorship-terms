@@ -46,7 +46,7 @@ _Sponsor_ agrees to pay _Developer_ the _Down Payment_ within five calendar days
 
 1.  On receiving the _Down Payment_, _Developer_ agrees to disclose that the _Offer_ has been accepted, in the same way they made the _Offer_, within five calendar days. If _Developer_ fails to disclose acceptance within that time, _Sponsor_ may do so.
 
-2.  _Developer_ agrees not to identify the _Sponsor_, by name or otherwise, without _Sponsor_'s prior permission by e-mail. If _Developer_ breaks this promise, _Sponsor_ may disclose that _Developer_ did so.
+2.  _Developer_ agrees not to identify the _Sponsor_, by name or otherwise, in disclosing that the _Offer_ has been accepted without _Sponsor_'s prior permission by e-mail. If _Developer_ breaks this promise, _Sponsor_ may disclose that _Developer_ did so.
 
 ### <a id="Development"></a>Development
 
