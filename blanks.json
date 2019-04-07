@@ -1,0 +1,11 @@
+{
+  "down payment deadline": "five calendar days",
+  "acceptance confirmation deadline": "five calendar days",
+  "clarification response deadline": "five calendar days",
+  "work pause response deadline": "five calendar days",
+  "bill payment deadline": "five calendar days",
+  "dispute call deadline": "five calendar days",
+  "resolved charge payment deadline": "three calendar days",
+  "success announcement deadline": "five calendar days",
+  "minimize": "diffs"
+}

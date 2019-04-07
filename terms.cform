@@ -28,11 +28,11 @@
 
         \Payment Instructions\  On acceptance, <Developer> agrees to bill <Sponsor> for the <Down Payment>, and to e-mail <Sponsor> instructions for making payments via bank-to-bank transfer, such as FedWire, ACH, SEPA, or SWIFT, or via other common electronic payment system, such as PayPal, Stripe, or Square Cash.
 
-        \Down Payment\  <Sponsor> agrees to pay <Developer> the <Down Payment> within five calendar days of receiving payment instructions, according to those instructions.  If <Sponsor> fails to make the <Down Payment> by that time, this agreement ends automatically, and <Developer> is free to disclose that <Sponsor> failed to make payment, and that the agreement ended for that reason.
+        \Down Payment\  <Sponsor> agrees to pay <Developer> the <Down Payment> within [down payment deadline] of receiving payment instructions, according to those instructions.  If <Sponsor> fails to make the <Down Payment> by that time, this agreement ends automatically, and <Developer> is free to disclose that <Sponsor> failed to make payment, and that the agreement ended for that reason.
 
         \Confirmation\
 
-            \\  On receiving the <Down Payment>, <Developer> agrees to disclose that the <Offer> has been accepted, in the same way they made the <Offer>, within five calendar days.  If <Developer> fails to disclose acceptance within that time, <Sponsor> may do so.
+            \\  On receiving the <Down Payment>, <Developer> agrees to disclose that the <Offer> has been accepted, in the same way they made the <Offer>, within [acceptance confirmation deadline].  If <Developer> fails to disclose acceptance within that time, <Sponsor> may do so.
 
             \\  <Developer> agrees not to identify the <Sponsor>, by name or otherwise, without <Sponsor>'s prior permission by e-mail.  If <Developer> breaks this promise, <Sponsor> may disclose that <Developer> did so.
 
@@ -40,7 +40,7 @@
 
             \Resolve the Issue\  On receiving the <Down Payment>, <Developer> agrees to begin work on resolving the <Issue>.  <Developer> agrees to publish all work created and used for the <Issue> to the Internet, through whatever systems other developers use for work on the <Project>.
 
-            \Clarifications\  If <Sponsor> submitted or otherwise helped specify the <Issue>, <Sponsor> agrees to reply to any requests for further clarification promptly.  If <Developer>'s work on the <Issue> is held up because <Sponsor> takes more than five calendar days to respond to a request for clarification, <Developer> may end this agreement by e-mail to <Sponsor>.
+            \Clarifications\  If <Sponsor> submitted or otherwise helped specify the <Issue>, <Sponsor> agrees to reply to any requests for further clarification promptly.  If <Developer>'s work on the <Issue> is held up because <Sponsor> takes more than [clarification response deadline] to respond to a request for clarification, <Developer> may end this agreement by e-mail to <Sponsor>.
 
             \Time Tracking\  <Developer> agrees to track all the time they spend working on the <Issue> in fairly rounded, quarter-hour increments.
 
@@ -54,7 +54,7 @@
 
                 \\  <Developer> agrees to send <Sponsor> a message once they have  spent time working on the <Issue> that adds up to 125%, 150%, or another increment of 25% above their <Fee Estimate> at the agreed <Hourly Rate>, and to <Pause Work>.
 
-                \\  ""Pause Work"" means that <Developer> will stop working on the <Issue> until <Sponsor> gives written permission to continue or ends this agreement.  If <Sponsor> fails to give permission or end the agreement within five calendar days of the pause, <Sponsor> automatically ends this agreement automatically.
+                \\  ""Pause Work"" means that <Developer> will stop working on the <Issue> until <Sponsor> gives written permission to continue or ends this agreement.  If <Sponsor> fails to give permission or end the agreement within [work pause response deadline] of the pause, <Sponsor> automatically ends this agreement automatically.
 
             \Ending Work\  <Developer> may e-mail <Sponsor>, ending this agreement, in any of these situations:
 
@@ -66,9 +66,9 @@
 
         \Billing\  When this agreement ends, if <Developer> ended this agreement {Ending Work} or <Sponsor> ended this agreement under {Reporting}, <Developer> agrees to bill <Sponsor> for all time spent working on the <Issue> up to that time, in fairly rounded, quarter-hour increments, at the agreed <Hourly Rate>.  <Developer> will apply the <Down Payment> against the amount due for time spent.
 
-        \Final Payment\  <Sponsor> agrees to either pay <Developer>'s bill, or dispute a specific amount of billed time and pay the rest, within five calendar days of receiving the bill.  <Sponsor> agrees to pay charges on <Developer>'s bill the same way <Sponsor> paid the <Down Payment>.  If <Sponsor> disputes charges, <Sponsor> and <Developer> agree to schedule a voice call within five calendar days to resolve the dispute, and <Sponsor> agrees to pay any resolved charges within three calendar days of resolution.
+        \Final Payment\  <Sponsor> agrees to either pay <Developer>'s bill, or dispute a specific amount of billed time and pay the rest, within [bill payment deadline] of receiving the bill.  <Sponsor> agrees to pay charges on <Developer>'s bill the same way <Sponsor> paid the <Down Payment>.  If <Sponsor> disputes charges, <Sponsor> and <Developer> agree to schedule a voice call within [dispute call deadline] to resolve the dispute, and <Sponsor> agrees to pay any resolved charges within [resolved charge payment deadline] of resolution.
 
-        \Announcement\  On receiving payment of all undisputed and resolved time charges, <Developer> agrees to disclose this agreement ended successfully , in the same way they made the <Offer>, within five calendar days.  If <Sponsor> requests that <Developer> do so by e-mail, <Developer> agrees to disclose <Sponsor>'s identity.  If <Developer> to disclose <Sponsor>'s identity within that time, <Sponsor> may do so.
+        \Announcement\  On receiving payment of all undisputed and resolved time charges, <Developer> agrees to disclose this agreement ended successfully , in the same way they made the <Offer>, within [success announcement deadline].  If <Sponsor> requests that <Developer> do so by e-mail, <Developer> agrees to disclose <Sponsor>'s identity.  If <Developer> to disclose <Sponsor>'s identity within that time, <Sponsor> may do so.
 
     \Transfer Fees\  <Developer> and <Sponsor> agree to pay their own expenses of sending and receiving payments under this agreement.
 

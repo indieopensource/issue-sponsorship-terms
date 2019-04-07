@@ -13,8 +13,8 @@
   "scripts": {
     "test": "commonform lint terms.cform",
     "build": "run-p build:*:*",
-    "build:terms:markdown": "commonform render -f markdown --title 'Issue Sponsorship Terms' terms.cform > terms.md",
-    "build:terms:html": "commonform render -f html5 --title 'Issue Sponsorship Terms' --ordered-lists terms.cform > terms.html",
-    "build:terms:docx": "commonform render -f docx --title 'Issue Sponsorship Terms' --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx"
+    "build:terms:markdown": "commonform render -f markdown --title 'Issue Sponsorship Terms' --blanks blanks.json terms.cform > terms.md",
+    "build:terms:html": "commonform render -f html5 --title 'Issue Sponsorship Terms' --ordered-lists --blanks blanks.json terms.cform > terms.html",
+    "build:terms:docx": "commonform render -f docx --title 'Issue Sponsorship Terms' --number outline --left-align-title --indent-margins --styles styles.json --blanks blanks.json terms.cform > terms.docx"
   }
 }
