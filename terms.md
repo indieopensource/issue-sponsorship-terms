@@ -120,6 +120,10 @@ _Developer_ licenses intellectual property rights in all the work they create an
 
 3.  As a fallback, the terms are those of the latest version of The Blue Oak Model License published on blueoakcouncil.org.
 
+### <a id="Separate_Licenses"></a>Separate Licenses
+
+Terms under which _Developer_ grants licenses under [Public License](#Public_License) will be interpreted as entirely independent legal documents, without reference to these terms or the circumstances of _Developer_ and _Sponsor_'s contractor-client relationship.
+
 ### <a id="Enforcement_of_Public_License"></a>Enforcement of Public License
 
 Others who are not parties to this agreement may enforce the terms of [Public License](#Public_License).
