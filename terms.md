@@ -52,7 +52,7 @@ _Sponsor_ agrees to pay _Developer_ the _Down Payment_ within five calendar days
 
 #### <a id="Resolve_the_Issue"></a>Resolve the Issue
 
-On receiving the _Down Payment_, _Developer_ agrees to begin work on resolving the _Issue_. _Developer_ agrees to publish all work created and used for the _Issue_ to the Internet, through whatever systems other developers use for work on the _Project_.
+On receiving the _Down Payment_, _Developer_ agrees to begin work on resolving the _Issue_. _Developer_ agrees to publish all work created and used for the _Issue_ to the Internet, through whatever systems developers use for work on the _Project_.
 
 #### <a id="Clarifications"></a>Clarifications
 
