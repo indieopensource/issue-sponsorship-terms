@@ -178,7 +178,7 @@ Both sides intend the _Offer_ and these terms as the final, complete, and only e
 
 ### <a id="Enforcement"></a>Enforcement
 
-Except under [Enforcement of Public Licenses](#Enforcement_of_Public_Licenses), Only _Developer_ and _Sponsor_ may enforce this agreement.
+Except under [Enforcement of Public Licenses](#Enforcement_of_Public_Licenses), only _Developer_ and _Sponsor_ may enforce this agreement.
 
 ### <a id="Assignment"></a>Assignment
 
