@@ -90,7 +90,7 @@ When this agreement ends, if _Developer_ ended this agreement under [Ending Work
 
 ### <a id="Final_Payment"></a>Final Payment
 
-_Sponsor_ agrees to either pay _Developer_'s bill, or dispute a specific amount of billed time and pay the rest, within five calendar days of receiving the bill. _Sponsor_ agrees to pay charges on _Developer_'s bill the same way _Sponsor_ paid the _Down Payment_. If _Sponsor_ disputes charges, _Sponsor_ and _Developer_ agree to schedule a voice call within five calendar days to resolve the dispute, and _Sponsor_ agrees to pay any resolved charges within three calendar days of resolution.
+_Sponsor_ agrees to either pay _Developer_'s bill, or dispute a specific amount of billed time and pay the rest, within five calendar days of receiving the bill. _Sponsor_ agrees to pay _Developer_'s bill the same way _Sponsor_ paid the _Down Payment_. If _Sponsor_ disputes charges, _Sponsor_ and _Developer_ agree to schedule a voice call within five calendar days to resolve the dispute, and _Sponsor_ agrees to pay any resolved charges within three calendar days of resolution.
 
 ### <a id="Announcement"></a>Announcement
 
