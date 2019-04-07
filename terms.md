@@ -78,13 +78,11 @@ _Developer_ agrees to record all the time spent working on the _Issue_ in fairly
 
 _Developer_ may e-mail _Sponsor_, ending this agreement, in any of these situations:
 
-1.  _Developer_ has finished work resolving the problem or improvement posed by the _Issue_.
+1.  _Developer_ has finished work resolving the _Issue_.
 
-2.  It becomes clear that the _Issue_ cannot or should not be resolved, for reasons outside _Developer_'s control.
+2.  It becomes clear that the _Issue_ cannot, will not, or very clearly should not be resolved, for reasons outside _Developer_'s control.
 
 3.  Someone else resolves the issue.
-
-4.  Maintainers of the _Project_ explicitly reject the _Issue_.
 
 ### <a id="Billing"></a>Billing
 
