@@ -60,19 +60,19 @@ If _Sponsor_ submitted or otherwise helped specify the _Issue_, _Sponsor_ agrees
 
 #### <a id="Time_Tracking"></a>Time Tracking
 
-_Developer_ agrees to track all the time they spend working on the _Issue_ in fairly rounded, quarter-hour increments.
+_Developer_ agrees to record all the time spent working on the _Issue_ in fairly rounded, quarter-hour increments.
 
 #### <a id="Reporting"></a>Reporting
 
-1.  _Developer_ agrees to send _Sponsor_ a message once _Developer_ has recorded time working on the _Issue_ that adds up to 75% of their _Fee Estimate_ at the agreed _Hourly Rate_.
+1.  _Developer_ agrees to send _Sponsor_ an e-mail once _Developer_ has recorded time equal to 75% of their _Fee Estimate_ at the agreed _Hourly Rate_.
 
-2.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 100% of their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
+2.  _Developer_ agrees to send _Sponsor_ an e-mail once _Developer_ has recorded time equal to 100% of their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
-3.  If the _Issue_ has not yet been resolved, _Developer_ agrees to send _Sponsor_ once their _Time Estimate_ elapses, along with a new _Time Estimate_, and to _Pause Work_.
+3.  If the _Issue_ has not yet been resolved, _Developer_ agrees to send _Sponsor_ an e-mail once their _Time Estimate_ elapses, with a new _Time Estimate_, and to _Pause Work_.
 
-4.  _Developer_ agrees to send _Sponsor_ a message once they have spent time working on the _Issue_ that adds up to 125%, 150%, or another increment of 25% above their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
+4.  _Developer_ agrees to send _Sponsor_ an e-mail once _Developer_ has recorded time equal to 125%, 150%, or another increment of 25% above their _Fee Estimate_ at the agreed _Hourly Rate_, and to _Pause Work_.
 
-5.  **Pause Work** means that _Developer_ will stop working on the _Issue_ until _Sponsor_ gives written permission to continue or ends this agreement. If _Sponsor_ fails to give permission or end the agreement within five calendar days of the pause, _Sponsor_ automatically ends this agreement automatically.
+5.  **Pause Work** means that _Developer_ will stop working on the _Issue_ until _Sponsor_ either gives written permission to continue or ends this agreement. If _Sponsor_ fails to give permission or end the agreement within five calendar days of the pause, _Sponsor_ automatically ends this agreement automatically.
 
 #### <a id="Ending_Work"></a>Ending Work
 
