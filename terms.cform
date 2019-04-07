@@ -14,9 +14,9 @@
 
         \\  The ""Down Payment"" is the amount <Developer> specifies for up-front payment in the <Offer>.
 
-        \\  The ""Fee Estimate"" refers to <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
+        \\  The ""Fee Estimate"" is <Developer>'s estimate of the total fees for resolving the <Issue> in the <Offer>.
 
-        \\  The ""Time Estimate"" refers to <Developer>'s estimate of the number of days <Developer> will need to resolve the <Issue> in the <Offer>.
+        \\  The ""Time Estimate"" is <Developer>'s estimate of the number of days <Developer> will need to resolve the <Issue> in the <Offer>.
 
         \\  The ""Hourly Rate"" is the hourly rate of pay <Developer> specifies in the <Offer>.
 

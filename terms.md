@@ -18,9 +18,9 @@ These terms set out a step-by-step process and ground rules for paid software de
 
 6.  The **Down Payment** is the amount _Developer_ specifies for up-front payment in the _Offer_.
 
-7.  The **Fee Estimate** refers to _Developer_'s estimate of the total fees for resolving the _Issue_ in the _Offer_.
+7.  The **Fee Estimate** is _Developer_'s estimate of the total fees for resolving the _Issue_ in the _Offer_.
 
-8.  The **Time Estimate** refers to _Developer_'s estimate of the number of days _Developer_ will need to resolve the _Issue_ in the _Offer_.
+8.  The **Time Estimate** is _Developer_'s estimate of the number of days _Developer_ will need to resolve the _Issue_ in the _Offer_.
 
 9.  The **Hourly Rate** is the hourly rate of pay _Developer_ specifies in the _Offer_.
 
