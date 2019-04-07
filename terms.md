@@ -160,6 +160,14 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's
 
 ## <a id="General_Contract_Terms"></a>General Contract Terms
 
+### <a id="Independence"></a>Independence
+
+_Sponsor_ and _Developer_ intend for _Developer_ to decide when, where, and how to do work under this agreement, with the discretion of an independent contractor, rather than as an employee. _Developer_ agrees that _Developer_ will not receive any employee benefits.
+
+### <a id="Taxes"></a>Taxes
+
+Both _Sponsor_ and _Developer_ agree to do their respective parts for tax compliance concerning fees and expenses paid to _Developer_ as an independent contractor under this agreement.
+
 ### <a id="Governing_Law"></a>Governing Law
 
 The law of the state where _Developer_ lives will govern this agreement
