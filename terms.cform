@@ -64,7 +64,7 @@
 
                 \\  Someone else resolves the issue.
 
-        \Billing\  When this agreement ends, if <Developer> ended this agreement {Ending Work} or <Sponsor> ended this agreement under {Reporting}, <Developer> agrees to bill <Sponsor> for all time spent working on the <Issue> up to that time, in fairly rounded, quarter-hour increments, at the agreed <Hourly Rate>.  <Developer> will apply the <Down Payment> against the amount due for time spent.
+        \Billing\  When this agreement ends, if <Developer> ended this agreement under {Ending Work} or <Sponsor> ended this agreement under {Reporting}, <Developer> agrees to bill <Sponsor> for all time spent working on the <Issue> up to that time, in fairly rounded, quarter-hour increments, at the agreed <Hourly Rate>.  <Developer> will apply the <Down Payment> against the amount due for time spent.
 
         \Final Payment\  <Sponsor> agrees to either pay <Developer>'s bill, or dispute a specific amount of billed time and pay the rest, within [bill payment deadline] of receiving the bill.  <Sponsor> agrees to pay charges on <Developer>'s bill the same way <Sponsor> paid the <Down Payment>.  If <Sponsor> disputes charges, <Sponsor> and <Developer> agree to schedule a voice call within [dispute call deadline] to resolve the dispute, and <Sponsor> agrees to pay any resolved charges within [resolved charge payment deadline] of resolution.
 
