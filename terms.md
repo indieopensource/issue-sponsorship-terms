@@ -96,7 +96,7 @@ _Sponsor_ agrees to either pay _Developer_'s bill, or dispute a specific amount 
 
 On receiving payment of all undisputed and resolved time charges, _Developer_ agrees to disclose this agreement ended successfully , in the same way they made the _Offer_, within five calendar days. If _Sponsor_ requests that _Developer_ do so by e-mail, _Developer_ agrees to disclose _Sponsor_'s identity. If _Developer_ to disclose _Sponsor_'s identity within that time, _Sponsor_ may do so.
 
-## <a id="Transfer_Fees"></a>Transfer Fees
+## <a id="Payment_Fees"></a>Payment Fees
 
 _Developer_ and _Sponsor_ agree to pay their own expenses of sending and receiving payments under this agreement.
 
